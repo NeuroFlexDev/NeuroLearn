@@ -20,7 +20,6 @@
 
 # 1. Frontend Repository (`ciFront`) 🖥️
 
-```markdown
 # AI Course Builder - Frontend
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -54,7 +53,6 @@ sequenceDiagram
 
 # 2. Backend Repository (`ciBack`) ⚙️
 
-```markdown
 # AI Course Builder - Backend
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://python.org)
@@ -81,7 +79,6 @@ services/
 
 # 3. ML Repository (`ciML`) 🧠
 
-```markdown
 # AI Course Builder - ML Core
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.1%2B-red)](https://pytorch.org)
