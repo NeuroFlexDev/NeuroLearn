@@ -1,12 +1,11 @@
 # NeuroLearn - AI Course Builder (Frontend) 🎨
 Реализация кейса от банка Центр-Инвест.
-Вот адаптированный README под текущее состояние проекта:
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Coverage](https://img.shields.io/badge/coverage-15%25-orange)
 
 > **Статус**: Активная разработка фронтенд-части  
-> Бэкенд и ML-модули - в процессе разработки
+> **Бэкенд** и **ML-модули** - в процессе разработки
 
 ## 🌟 Ключевые возможности интерфейса
 
@@ -20,10 +19,6 @@
 # 1. Frontend Repository (`ciFront`) 🖥️
 
 # AI Course Builder - Frontend
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![CI/CD](https://github.com/NeuroFlexDev/ciFront/actions/workflows/deploy.yml/badge.svg)
-
 ## Основной стек
 
 | Категория       | Технологии                          | Версии    |
@@ -53,7 +48,6 @@ sequenceDiagram
 # 2. Backend Repository (`ciBack`) ⚙️
 
 # AI Course Builder - Backend
-
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.103%2B-green)](https://fastapi.tiangolo.com)
 
@@ -68,7 +62,7 @@ sequenceDiagram
 ## Сервисная архитектура
 ```
 services/
-├── auth
+├── auth (optional)
 ├── course-generator
 ├── content-storage
 └── integrations
@@ -110,8 +104,8 @@ graph TD
 ```
 ## 📚 Ресурсы
 
-- [Figma-дизайн](https://www.figma.com/...)
-- [Miro-архитектура](https://miro.com/...)
+- [Figma-дизайн](https://www.figma.com/design/mCBsEO0lXXeQTMSf7IgWEj/AI-Course-Builder?node-id=0-1&t=uI6WbiibzoO8o93y-1)
+- [Miro-архитектура](https://miro.com/welcomeonboard/Y2NJR2pRRnI1dXFxMkVDV1A1c3VnMWFPNGdPQXo4R2s4cTVEQXN1MnI2NjE1clo1S3BNSlJxOGNENXZwR0N0ZjZOQnQ1WmNpZ25jbC8zODRoZnF1dzBIZWgwbG1nZDlTRkJMSnU3Y1hGVEJOWGRzalFEQ0paVnpVK053NW9hb1FNakdSWkpBejJWRjJhRnhhb1UwcS9BPT0hdjE=?share_link_id=622333553457)
 - [Дорожная карта](/ROADMAP.md)
 
 ---
