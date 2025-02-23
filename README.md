@@ -3,8 +3,7 @@
 Вот адаптированный README под текущее состояние проекта:
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![CI/CD](https://github.com/NeuroFlexDev/ciFront/actions/workflows/deploy.yml/badge.svg)
-![Coverage](https://img.shields.io/badge/coverage-75%25-orange)
+![Coverage](https://img.shields.io/badge/coverage-15%25-orange)
 
 > **Статус**: Активная разработка фронтенд-части  
 > Бэкенд и ML-модули - в процессе разработки
@@ -117,8 +116,3 @@ graph TD
 
 ---
 *Банк Центр-Инвест* • 2025
-```
-
-    Miro-архитектура
-
-    Дорожная карта
