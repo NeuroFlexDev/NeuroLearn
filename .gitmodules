@@ -1,0 +1,6 @@
+[submodule "ciFront"]
+	path = ciFront
+	url = https://github.com/NeuroFlexDev/ciFront.git
+[submodule "ciBack"]
+	path = ciBack
+	url = https://github.com/NeuroFlexDev/ciBack.git
