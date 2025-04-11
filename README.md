@@ -19,9 +19,9 @@
 
 ```mermaid
 graph TD
-  A[Frontend (ciFront)] -->|REST| B[Backend (ciBack)]
-  B -->|RAG / LLM| C[ML Core (ciML)]
-  C --> D[(Vector DB)]
+  A[Frontend ciFront] -->|REST| B[Backend ciBack]
+  B -->|RAG / LLM| C[ML Core ciML]
+  C --> D[Vector DB]
   C --> E[Object Storage]
 ```
 
