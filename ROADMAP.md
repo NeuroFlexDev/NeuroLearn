@@ -142,8 +142,8 @@ NeuroLearn — это комплексная AI-платформа для ген
 ## 🤝 Участвуйте
 
 Мы открыты к контрибуциям и предложениям:
-- [Issues](https://github.com/your-org/NeuroLearn/issues)
-- [Pull Requests](https://github.com/your-org/NeuroLearn/pulls)
+- [Issues](https://github.com/NeuroFlexDev/NeuroLearn/issues)
+- [Pull Requests](https://github.com/NeuroFlexDev/NeuroLearn/pulls)
 
 ---
 
